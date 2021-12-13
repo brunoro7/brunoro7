@@ -9,8 +9,8 @@
  ✨
 <div>
     <a href="https://github.com/brunoro7/github-readme-stats">
-        <img height="180vh"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoro7&count_private=true&theme=tokyonight" />
         <img height="180vh"  src="https://github-readme-stats.vercel.app/api?username=brunoro7&count_private=true&show_icons=true&theme=tokyonight" />
+        <img height="180vh"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoro7&count_private=true&theme=tokyonight" />
     </a>
 </div>
 
