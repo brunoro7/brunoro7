@@ -1,14 +1,10 @@
-##### 🚧 🚧 Em constante construção.... 🚧 🚧
-</br>
-
-### **-- Olá!** 👋 ..  **Muito Prazer! --** 🤗 🤝
-</br>
-
+#### 🚧 🚧 Em constante construção.... 🚧 🚧
+## **-- Olá!** 👋 ..  **Muito Prazer! --** 🤗 🤝
 ## **Me chamo Bruno Rossetti** <img height="40vh" width="40vh" src="brunoro7-avatar2.png">
 <div>
   <a href="https://github.com/brunoro7/github-readme-stats">
-    <img height="135vh" width="350vh"  src="https://github-readme-stats.vercel.app/api?username=brunoro7&count_private=true&show_icons=true&theme=tokyonight" />
-    <img height="135vh" width="200vh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoro7&count_private=true&theme=tokyonight" />
+    <img height="155vh" width="370vh"  src="https://github-readme-stats.vercel.app/api?username=brunoro7&count_private=true&show_icons=true&theme=tokyonight" />
+    <img height="155vh" width="220vh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoro7&count_private=true&theme=tokyonight" />
   </a>
 </div>
 
