@@ -7,6 +7,8 @@
   <a href="https://github.com/brunoro7/github-readme-stats">
     <img height="255vh" width="615vh" src="https://github-readme-streak-stats.herokuapp.com/?user=brunoro7&theme=tokyonight&layout" />
   </a>
+  
+  </br>
   <a href="https://github.com/brunoro7/github-readme-stats">
     <img height="155vh" width="390vh"  src="https://github-readme-stats.vercel.app/api?username=brunoro7&count_private=true&show_icons=true&theme=tokyonight" />
     <img height="155vh" width="225vh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoro7&count_private=true&theme=tokyonight" />
