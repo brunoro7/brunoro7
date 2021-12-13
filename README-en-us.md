@@ -14,9 +14,9 @@
 
 > 😄 - I've participated in some **"study trails"**, such as **ImersãoDev-Alura in September/2021**, the **NLW held by RocketSeat Out/2021**, I also participated in the **5th and 6th edition of First Steps in Programming by Trybe**.<br>
 
-> ## ==> E ainda, vem muito mais por ai...
+> ## ==> And there's even more to come...
 ---
->#### 🚧 🚧 ...Em constante manutenção... 🚧 🚧
+>#### 🚧 🚧 ...in Constant Maintenance... 🚧 🚧
 <div style="display:inline_block" align-itens="center">
 
   > <img alt="brunoro7-git" height="47vh" width="60vh" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
