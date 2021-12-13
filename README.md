@@ -3,16 +3,16 @@
 ### **-- Olá!** 👋 ..  **Muito Prazer! --** 🤗 🤝
 # **Me chamo Bruno Rossetti** <img height="40vh" width="40vh" src="brunoro7-avatar2.png">
 
-<a href="https://github.com/brunoro7/github-readme-stats"><img height="175vh" width="700vh" src="https://github-readme-streak-stats.herokuapp.com/?user=brunoro7&theme=tokyonight&layout" /></a>
-
 <div>
+  <a href="https://github.com/brunoro7/github-readme-stats">
+    <img height="255vh" width="615vh" src="https://github-readme-streak-stats.herokuapp.com/?user=brunoro7&theme=tokyonight&layout" />
+  </a>
   <a href="https://github.com/brunoro7/github-readme-stats">
     <img height="155vh" width="390vh"  src="https://github-readme-stats.vercel.app/api?username=brunoro7&count_private=true&show_icons=true&theme=tokyonight" />
     <img height="155vh" width="225vh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoro7&count_private=true&theme=tokyonight" />
   </a>
-</div> 
+</div></br> 
 ✨
-
 </br>
 
 > 🔭 * 💬 - Estou vivenciando uma **mudança de carreira**, atualmente sou estudante de **Desenvolvimento Full Stack** na **Trybe**, buscando novos conhecimentos e perspectivas, sempre amei tecnologias e **tentar entender como as coisas funcionam !!!**
