@@ -5,9 +5,9 @@
 
 <div>
   <a href="https://github.com/brunoro7/github-readme-stats">
-    <img height="255vh" width="615vh" src="https://github-readme-streak-stats.herokuapp.com/?user=brunoro7&theme=tokyonight&layout" />
+    <img height="255vh" width="615vh" src="https://github-readme-streak-stats.herokuapp.com/?user=brunoro7&theme=tokyonight" />
   </a>
-  
+
   </br>
   <a href="https://github.com/brunoro7/github-readme-stats">
     <img height="155vh" width="390vh"  src="https://github-readme-stats.vercel.app/api?username=brunoro7&count_private=true&show_icons=true&theme=tokyonight" />
@@ -25,16 +25,25 @@
 
 > ## ==> And there's even more to come...
 ---
+<div style="display:inline_block" align="center">
+
 >#### 🚧 🚧 ...in Constant Maintenance... 🚧 🚧
-<div style="display:inline_block" align-itens="center">
 
   > <img alt="brunoro7-git" height="47vh" width="60vh" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
   > <img alt="brunoro7-github" height="39vh" width="45vh" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />    
   > <img alt="brunoro7-html5" height="39vh" width="45vh" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   > <img alt="brunoro7-css" height="39vh" width="45vh" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
   > <img alt="brunoro7-javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35vh" width="50vh"/>    
-  > <img alt="brunoro7-linux" height="39vh" width="50vh" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> ... 
+  > <img alt="brunoro7-linux" height="39vh" width="50vh" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> 
 </div>
 
 ---
+<div align="center">
+
 > ### 📫 ===> bruno.ro7c@gmail.com <=== 📫
+
+> ## - Visitor Count -
+>  &oslash; <a align="center"><img align="center" src="https://profile-counter.glitch.me/{brunoro7}/count.svg" /></a> &oslash;
+</div>
+
+---
