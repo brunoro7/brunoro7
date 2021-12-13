@@ -3,7 +3,7 @@
 ### **-- Olá!** 👋 ..  **Muito Prazer! --** 🤗 🤝
 # **Me chamo Bruno Rossetti** <img height="40vh" width="40vh" src="brunoro7-avatar2.png">
 
-<a href="https://github.com/brunoro7/github-readme-stats"><img height="170vh" width="1370vh" src="https://github-readme-streak-stats.herokuapp.com/?user=brunoro7&theme=tokyonight&layout" /></a>
+<a href="https://github.com/brunoro7/github-readme-stats"><img height="175vh" width="700vh" src="https://github-readme-streak-stats.herokuapp.com/?user=brunoro7&theme=tokyonight&layout" /></a>
 
 <div>
   <a href="https://github.com/brunoro7/github-readme-stats">
