@@ -1,3 +1,6 @@
+> #### in English Version [README-en-us](#)
+</br>
+
 ### **-- Olá!** 👋 ..  **Muito Prazer! --** 🤗 🤝
 # **Me chamo Bruno Rossetti** <img height="40vh" width="40vh" src="brunoro7-avatar2.png">
 <div>

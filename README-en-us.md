@@ -1,3 +1,6 @@
+> #### Versão em Português [README-pt-br](#)
+</br>
+
 ### **-- Hy!** 👋 ..  **Nice to meet you! --** 🤗 🤝
 # **My name is Bruno Rossetti** <img height="40vh" width="40vh" src="brunoro7-avatar2.png">
 <div>
