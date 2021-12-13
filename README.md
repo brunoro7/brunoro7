@@ -1,28 +1,26 @@
-## 🚧 🚧 Em construção.... 🚧 🚧 
-<br>
+### 🚧 🚧 Em constante construção.... 🚧 🚧
+</br>
 
 ## **-- Olá!** 👋 ..  **Muito Prazer! --** 🤗 🤝
-<br>
-
 # **Me chamo Bruno Rossetti**<br>
 
- ✨
 <div>
     <a href="https://github.com/brunoro7/github-readme-stats">
-        <img height="180vh"  src="https://github-readme-stats.vercel.app/api?username=brunoro7&count_private=true&show_icons=true&theme=tokyonight" />
-        <img height="180vh"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoro7&count_private=true&theme=tokyonight" />
+    <img height="130vh" width="330vh"  src="https://github-readme-stats.vercel.app/api?username=brunoro7&count_private=true&show_icons=true&theme=tokyonight" />
+    <img height="130vh" width="200vh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoro7&count_private=true&theme=tokyonight" />
     </a>
 </div>
 
-⚡ - Estou com 33 anos, e atualmente, <br>
-> 🔭 Trabalho como **funcionário público**  na área da Educação, pelo **Estado de São Paulo**.
-Desenvolvo um **serviço de atendimento** e **relação entre os alunos, pais e escola**, sanando as demandas de atendimento ao público, problemas de relação pessoal, demandas administrativas e afins.
+ > 🔭 💬 - Estou passando por uma **mudança de carreira**, Atualmente sou estudante de **Desenvolvimento Full Stack** na **Trybe**, buscando novos conhecimentos e perspectivas, sempre amei tecnologias e **tentar entender como as coisas funcionam !!!**<br>
 
-> 💬 - Estou passando por uma **mudança de carreira**, buscando novos conhecimentos e perspectivas, **sempre amei tecnologias e tentar entender como as coisas funcionam**, e a **curiosidade** e **criatividade** me fizeram perceber que posso usar a **programação** e o **desenvolvimento** como uma **ferramenta de ligação**, para vários "ramos e carreiras". Preenchendo certas lacunas de necessidade pessoal e social.<br>
+> 👯-🌱 - Meus **estudos**, no momento, estão focados em **Html**, **Css**, **JavaScript** e **Git/GitHub**, abordando a lógica de programação junto ao front-end, seguindo para uma base de back-end, ciência da computação, e quem sabe futuramente, trabalhar com algo relacionada a **tecnologia espacial**.<br>
 
-> 👯-🌱 - Meus **estudos** no momento estão focados em **Html**, **Css**, **JavaScript** e **Git**, estudando a **lógica de programação** junto ao **front-end**, com intuito de caminhar para uma base de back-end e de banco de dados.<br>
+> 😄 - Já participei de algumas **"trilhas de estudo"**, como o da **ImersãoDev-Alura em Setembro/2021**, o **NLW realizado pela RocketSeat Out/2021**, participei também da **5ª e 6ª edição dos Primeiros Passos na Programação pela Trybe**.
+> ## E ainda, vem muito mais por ai ...
+</br> 
 
-> 😄 - Recentemente, participei da **ImersãoDev-Alura**, dando início aos meus primeiros projetos para iniciar o portfólio, participei também das **5ª e 6ª edições do Primeiros Passos na Programação pela Trybe**. E irá continuar!
+# ==> ✨ ... ⚠️ 📚 ⌨️ 🖥️ 🖱️ 📚 ⚠️ ... ✨ <==
+
 
 <br>
 <div style="display: inline_block">
