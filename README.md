@@ -2,6 +2,9 @@
 
 ### **-- Olá!** 👋 ..  **Muito Prazer! --** 🤗 🤝
 # **Me chamo Bruno Rossetti** <img height="40vh" width="40vh" src="brunoro7-avatar2.png">
+
+<a href="https://github.com/brunoro7/github-readme-stats"><img height="170vh" width="1370vh" src="https://github-readme-streak-stats.herokuapp.com/?user=brunoro7&theme=tokyonight&layout" /></a>
+
 <div>
   <a href="https://github.com/brunoro7/github-readme-stats">
     <img height="155vh" width="390vh"  src="https://github-readme-stats.vercel.app/api?username=brunoro7&count_private=true&show_icons=true&theme=tokyonight" />
@@ -10,11 +13,13 @@
 </div> 
 ✨
 
-> 🔭 * 💬 - Estou vivenciando uma **mudança de carreira**, atualmente sou estudante de **Desenvolvimento Full Stack** na **Trybe**, buscando novos conhecimentos e perspectivas, sempre amei tecnologias e **tentar entender como as coisas funcionam !!!**<br>
+</br>
 
-> 👯 * 🌱 - Meus **estudos**, no momento, estão focados em **Html**, **Css**, **JavaScript** e **Git/GitHub**, abordando a lógica de programação junto ao front-end, seguindo para uma base de back-end, ciência da computação, e quem sabe futuramente, trabalhar com algo relacionada a **Tecnologia Espacial**.<br>
+> 🔭 * 💬 - Estou vivenciando uma **mudança de carreira**, atualmente sou estudante de **Desenvolvimento Full Stack** na **Trybe**, buscando novos conhecimentos e perspectivas, sempre amei tecnologias e **tentar entender como as coisas funcionam !!!**
 
-> 😄 - Já participei de algumas **"trilhas de estudo"**, como o da **ImersãoDev-Alura em Setembro/2021**, o **NLW realizado pela RocketSeat Out/2021**, participei também da **5ª e 6ª edição dos Primeiros Passos na Programação pela Trybe**.<br>
+> 👯 * 🌱 - Meus **estudos**, no momento, estão focados em **Html**, **Css**, **JavaScript** e **Git/GitHub**, abordando a lógica de programação junto ao front-end, seguindo para uma base de back-end, ciência da computação, e quem sabe futuramente, trabalhar com algo relacionada a **Tecnologia Espacial**.
+
+> 😄 - Já participei de algumas **"trilhas de estudo"**, como o da **ImersãoDev-Alura em Setembro/2021**, o **NLW realizado pela RocketSeat Out/2021**, participei também da **5ª e 6ª edição dos Primeiros Passos na Programação pela Trybe**.
 
 > ## ==> E ainda, vem muito mais por ai...
 ---
