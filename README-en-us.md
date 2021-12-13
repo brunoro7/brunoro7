@@ -8,11 +8,11 @@
 </div> 
 ✨
 
-> 🔭 * 💬 - Estou vivenciando uma **mudança de carreira**, atualmente sou estudante de **Desenvolvimento Full Stack** na **Trybe**, buscando novos conhecimentos e perspectivas, sempre amei tecnologias e **tentar entender como as coisas funcionam !!!**<br>
+> 🔭 * 💬 - I'm experiencing a **career change**, I'm currently a **Full Stack Development** student at **Trybe**, looking for new knowledge and perspectives, I've always loved technology and **trying to understand how things work**!<br>
 
-> 👯 * 🌱 - Meus **estudos**, no momento, estão focados em **Html**, **Css**, **JavaScript** e **Git/GitHub**, abordando a lógica de programação junto ao front-end, seguindo para uma base de back-end, ciência da computação, e quem sabe futuramente, trabalhar com algo relacionada a **Tecnologia Espacial**.<br>
+> 👯 * 🌱 - My **studies**, at the moment, are focused on **Html**, **Css**, **JavaScript** and **Git/GitHub**, approaching programming logic along the front-end, moving towards a back-end basis, computer science, and who knows in the future, working with something related to **Space Technology**.<br>
 
-> 😄 - Já participei de algumas **"trilhas de estudo"**, como o da **ImersãoDev-Alura em Setembro/2021**, o **NLW realizado pela RocketSeat Out/2021**, participei também da **5ª e 6ª edição dos Primeiros Passos na Programação pela Trybe**.<br>
+> 😄 - I've participated in some **"study trails"**, such as **ImersãoDev-Alura in September/2021**, the **NLW held by RocketSeat Out/2021**, I also participated in the **5th and 6th edition of First Steps in Programming by Trybe**.<br>
 
 > ## ==> E ainda, vem muito mais por ai...
 ---
