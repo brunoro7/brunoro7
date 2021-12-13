@@ -2,13 +2,18 @@
 
 ### **-- Hy!** 👋 ..  **Nice to meet you! --** 🤗 🤝
 # **My name is Bruno Rossetti** <img height="40vh" width="40vh" src="brunoro7-avatar2.png">
+
 <div>
+  <a href="https://github.com/brunoro7/github-readme-stats">
+    <img height="255vh" width="615vh" src="https://github-readme-streak-stats.herokuapp.com/?user=brunoro7&theme=tokyonight&layout" />
+  </a>
   <a href="https://github.com/brunoro7/github-readme-stats">
     <img height="155vh" width="390vh"  src="https://github-readme-stats.vercel.app/api?username=brunoro7&count_private=true&show_icons=true&theme=tokyonight" />
     <img height="155vh" width="225vh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoro7&count_private=true&theme=tokyonight" />
   </a>
-</div> 
+</div></br> 
 ✨
+</br>
 
 > 🔭 * 💬 - I'm experiencing a **career change**, I'm currently a **Full Stack Development** student at **Trybe**, looking for new knowledge and perspectives, I've always loved technology and **trying to understand how things work**!<br>
 
