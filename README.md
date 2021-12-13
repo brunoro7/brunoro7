@@ -3,6 +3,14 @@
 
 # **Me chamo Bruno Rossetti**<br>
 
+ ✨
+<div>
+    <a href="https://github.com/brunoro7/github-readme-stats">
+        <img height="180vh"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoro7&count_private=true&theme=tokyonight" />
+        <img height="180vh"  src="https://github-readme-stats.vercel.app/api?username=brunoro7&count_private=true&show_icons=true&theme=tokyonight" />
+    </a>
+</div>
+
 ⚡ - Estou com 33 anos, e atualmente, <br>
 > 🔭 Trabalho como **funcionário público**  na área da Educação, pelo **Estado de São Paulo**.
 Desenvolvo um **serviço de atendimento** e **relação entre os alunos, pais e escola**, sanando as demandas de atendimento ao público, problemas de relação pessoal, demandas administrativas e afins.
@@ -13,15 +21,6 @@ Desenvolvo um **serviço de atendimento** e **relação entre os alunos, pais e 
 
 > 😄 - Recentemente, participei da **ImersãoDev-Alura**, dando início aos meus primeiros projetos para iniciar o portfólio, participei também das **5ª e 6ª edições do Primeiros Passos na Programação pela Trybe**. E irá continuar!
 
----
-
- ✨
-<div>
-    <a href="https://github.com/brunoro7/github-readme-stats">
-        <img height="180vh"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoro7&count_private=true&theme=tokyonight" />
-        <img height="180vh"  src="https://github-readme-stats.vercel.app/api?username=brunoro7&count_private=true&show_icons=true&theme=tokyonight" />
-    </a>
-</div>
 <br>
 <div style="display: inline_block">
     <img align="center" alt="brunoro7-html5" height="30vh" width="40vh" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
