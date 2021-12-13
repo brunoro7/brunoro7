@@ -8,9 +8,9 @@
 </div> 
 ✨
 
-> 🔭 * 💬 - Estou passando por uma **mudança de carreira**, Atualmente sou estudante de **Desenvolvimento Full Stack** na **Trybe**, buscando novos conhecimentos e perspectivas, sempre amei tecnologias e **tentar entender como as coisas funcionam !!!**<br>
+> 🔭 * 💬 - Estou vivenciando uma **mudança de carreira**, atualmente sou estudante de **Desenvolvimento Full Stack** na **Trybe**, buscando novos conhecimentos e perspectivas, sempre amei tecnologias e **tentar entender como as coisas funcionam !!!**<br>
 
-> 👯 * 🌱 - Meus **estudos**, no momento, estão focados em **Html**, **Css**, **JavaScript** e **Git/GitHub**, abordando a lógica de programação junto ao front-end, seguindo para uma base de back-end, ciência da computação, e quem sabe futuramente, trabalhar com algo relacionada a **tecnologia espacial**.<br>
+> 👯 * 🌱 - Meus **estudos**, no momento, estão focados em **Html**, **Css**, **JavaScript** e **Git/GitHub**, abordando a lógica de programação junto ao front-end, seguindo para uma base de back-end, ciência da computação, e quem sabe futuramente, trabalhar com algo relacionada a **Tecnologia Espacial**.<br>
 
 > 😄 - Já participei de algumas **"trilhas de estudo"**, como o da **ImersãoDev-Alura em Setembro/2021**, o **NLW realizado pela RocketSeat Out/2021**, participei também da **5ª e 6ª edição dos Primeiros Passos na Programação pela Trybe**.<br>
 
