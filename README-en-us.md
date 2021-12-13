@@ -41,7 +41,7 @@
 <p align="center">
  <h2 align="center">Contribution Graph</h2>
 <p>
-<img alt="Bruno Ro7 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=brunoro7&bg_color=1F222E&color=0077b6&line=b5179e&point=f72585&hide_border=true" />
+<img alt="Bruno Ro7 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=brunoro7&bg_color=1F222E&color=0077b6&line=b5179e&point=f72585&hide_border=true&area_color=0077b6&area=true" />
 </p>
 
 ---
