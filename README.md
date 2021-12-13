@@ -36,12 +36,18 @@
 </div>
 
 ---
-<div align="center">
+<p align="center">
+ <h2 align="center">Contribution Graph</h2>
+<p>
+<img alt="Bruno Ro7 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=brunoro7&bg_color=1F222E&color=0077b6&line=b5179e&point=f72585&hide_border=true" />
+</p>
 
-> ### 📫 ===> bruno.ro7c@gmail.com <=== 📫
+---
+<div align="center">
 
 > ## - Contador de Visitas -
 >  &oslash; <a align="center"><img align="center" src="https://profile-counter.glitch.me/{brunoro7}/count.svg" /></a> &oslash;
-</div>
 
----
+> ### 📫 ===> bruno.ro7c@gmail.com <=== 📫
+
+</div>
