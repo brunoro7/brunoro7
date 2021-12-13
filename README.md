@@ -7,6 +7,7 @@
     <img height="155vh" width="225vh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoro7&count_private=true&theme=tokyonight" />
   </a>
 </div>
+</br>
 
 > 🔭 💬 - Estou passando por uma **mudança de carreira**, Atualmente sou estudante de **Desenvolvimento Full Stack** na **Trybe**, buscando novos conhecimentos e perspectivas, sempre amei tecnologias e **tentar entender como as coisas funcionam !!!**<br>
 
