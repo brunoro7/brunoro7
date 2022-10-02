@@ -7,20 +7,17 @@
 ---
 <div style="display:inline_block" align="start">
 
-><br>
 > <h3 align="left"><strong>Sobre mim:</strong></h3>
 > 
 > <p>&nbsp;&nbsp; Desde de criança, sempre fui muito curioso em entender como tudo funcionava, e logo me apaixonei pelo mundo da tecnologia e suas ferramentas. Sou uma <strong>pessoa comunicativa</strong>, <strong>colaboradora</strong>, <strong>criativa</strong> e <strong>flexível</strong>, adoro <strong>novas ideias</strong> e conversas que me fazem <strong>refletir</strong>, sou curioso e um aventureiro de alma, amo <strong>viajar</strong>, <strong>acampar</strong> e conhecer <strong>novos lugares</strong>, <strong>comidas</strong> e <strong>culturas</strong>!</p>
 > <p>&nbsp;&nbsp; Atualmente, sou aluno de <strong>Desenvolvimento Web Full Stack</strong> na <strong>Trybe</strong>, uma escola de tecnologia que tem comprometimento genuíno com o sucesso profissional das pessoas estudantes. São mais de 1500 horas de formação que abordam <strong>Fundamentos de Desenvolvimento Web</strong>, <strong>Front-End</strong>, <strong>Back-End</strong>, <strong>Ciência da Computação</strong>, <strong>Metodologias Ágeis</strong> e <strong>Habilidades Comportamentais</strong>.</p>
 > <p>&nbsp;&nbsp; No trabalho, um <strong>fator de alta importância</strong>, é o <strong>bem-estar do grupo</strong> e a <strong>confiança das pessoas</strong>, para o desenvolvimento do <strong>espírito de equipe</strong> e <strong>individual</strong>. Quero desenvolver e amadurecer como Desenvolvedor Web Full Stack, em uma empresa que tenha uma <strong>cultura de inovação</strong>, <strong>inclusão</strong>, e estimule a <strong>colaboração</strong> e o <strong>crescimento</strong>, para que através do impacto realizado pelos meus trabalhos, possa ajudar a transformar o máximo de vidas que conseguir!</p>
-><br>
 
 </div>
 
 ---
 <div style="display:inline_block" align="center">
 
-><br>
 > <h3 align="left"><strong>Contatos:</stong></h3>
 > <a href="https://linkedin.com/in/brunoro7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brunoro7" height="30" width="40" /></a>
 > <a href="https://stackoverflow.com/users/20140542/bruno-rossetti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20140542/bruno-rossetti" height="30" width="40" /></a>
@@ -28,14 +25,13 @@
 > </br>
 >
 > 📫 ===> **bruno.ro7c@gmail.com** <=== 📫
->
-><br>
+
 ---
 </div>
 
 <div style="display:inline_block" align="center">
 
-<a href="https://github.com/brunoro7/github-readme-stats"><img height="255vh" width="615vh"  src="https://github-readme-stats.vercel.app/api?username=brunoro7&count_private=true&show_icons=true&theme=tokyonight" alt="brunoro7, github stat's" /></a>
+<a href="https://github.com/brunoro7/github-readme-stats"><img height="255vh" width="600vh"  src="https://github-readme-stats.vercel.app/api?username=brunoro7&count_private=true&show_icons=true&theme=tokyonight" alt="brunoro7, github stat's" /></a>
 <a href="https://github.com/brunoro7/github-readme-stats"><img height="155vh" width="390vh" src="https://github-readme-streak-stats.herokuapp.com/?user=brunoro7&theme=tokyonight" alt="brunoro7, current streak" /><img height="155vh" width="225vh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoro7&langs_count=7&count_private=true&theme=tokyonight" alt="brunoro7, most used languages" /></a>
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="617vh" src="https://github-profile-trophy.vercel.app/?username=brunoro7&theme=tokyonight" alt="brunoro7" /></a>
 
@@ -57,8 +53,7 @@
 
 <h3><strong>- Gráfico de Contribuição -</strong></h3>
 
-></br>
-> <img alt="Bruno Ro7 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=brunoro7&bg_color=000017&color=ffffff&line=b5179e&point=f72585&hide_border=true&area_color=0077b6&area=true" />
+<img alt="Bruno Ro7 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=brunoro7&bg_color=010017&color=ffffff&line=b5179e&point=f72585&hide_border=true&area_color=0077b6&area=true" />
 
 ---
 </div>
