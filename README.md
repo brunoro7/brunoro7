@@ -27,19 +27,7 @@
 > 📫 ===> **bruno.ro7c@gmail.com** <=== 📫
 
 ---
-</div>
 
-<div style="display:inline_block" align="center">
-
-<a href="https://github.com/brunoro7/github-readme-stats"><img height="255vh" width="600vh"  src="https://github-readme-stats.vercel.app/api?username=brunoro7&count_private=true&show_icons=true&theme=tokyonight" alt="brunoro7, github stat's" /></a>
-<a href="https://github.com/brunoro7/github-readme-stats"><img height="155vh" width="390vh" src="https://github-readme-streak-stats.herokuapp.com/?user=brunoro7&theme=tokyonight" alt="brunoro7, current streak" /><img height="155vh" width="225vh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoro7&langs_count=7&count_private=true&theme=tokyonight" alt="brunoro7, most used languages" /></a>
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img width="617vh" src="https://github-profile-trophy.vercel.app/?username=brunoro7&theme=tokyonight" alt="brunoro7" /></a>
-
-<br>
-<img src="https://komarev.com/ghpvc/?username=brunoro7&label=Profile%20views&color=0e75b6&style=flat" alt="brunoro7" />
-</div>
-
----
 <div style="display:inline_block" align="center">
 
 <h3 align="center"><strong>- Ferramentas Frontend e Backend -</strong></h3>
@@ -49,11 +37,27 @@
 </div>
 
 ---
+</div>
+
 <div style="display:inline_block" align="center">
 
-<h3><strong>- Gráfico de Contribuição -</strong></h3>
+  <img align="left" height="305vh"  width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoro7&langs_count=7&count_private=true&theme=tokyonight" alt="brunoro7, most used languages" />
 
-<img alt="Bruno Ro7 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=brunoro7&bg_color=010017&color=ffffff&line=b5179e&point=f72585&hide_border=true&area_color=0077b6&area=true" />
+  <div style="display:inline_block" align="right">
+    <a href="https://github.com/brunoro7/github-readme-stats"><img height="" width="375vw"  src="https://github-readme-stats.vercel.app/api?username=brunoro7&count_private=true&show_icons=true&theme=tokyonight" alt="brunoro7, github stat's" /></a>
+  </div>
+  <div style="display:inline_block" align="right">
+    <a href="https://github.com/brunoro7/github-readme-stats"><img height="" width="375vw" src="https://github-readme-streak-stats.herokuapp.com/?user=brunoro7&theme=tokyonight" alt="brunoro7, current streak" /></a>
+  </div>
+</div>
 
 ---
+<div style="display:inline_block" align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="630vh" src="https://github-profile-trophy.vercel.app/?username=brunoro7&theme=tokyonight" alt="brunoro7" /></a>
+</div>
+
+---
+<div style="display:inline_block" align="center">
+
+  <img src="https://komarev.com/ghpvc/?username=brunoro7&label=Profile%20views&color=0e75b6&style=flat" alt="brunoro7" />
 </div>
