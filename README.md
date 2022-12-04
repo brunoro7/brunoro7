@@ -41,7 +41,7 @@
 
 <div style="display:inline_block" align="center">
 
-  <img align="left" height="405vh"  width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoro7&langs_count=7&count_private=true&theme=tokyonight" alt="brunoro7, most used languages" />
+  <img align="left" height="400vh"  width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoro7&langs_count=7&count_private=true&theme=tokyonight" alt="brunoro7, most used languages" />
 
   <div style="display:inline_block" align="right">
     <a href="https://github.com/brunoro7/github-readme-stats"><img height="" width="500vw"  src="https://github-readme-stats.vercel.app/api?username=brunoro7&count_private=true&show_icons=true&theme=tokyonight" alt="brunoro7, github stat's" /></a>
