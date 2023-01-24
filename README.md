@@ -7,7 +7,6 @@
 ---
 <div style="display:inline_block" align="start">
 
-> <br>
 > <h3 align="left"><strong>&nbsp;Sobre mim:</strong></h3>
 >
 > <p>&nbsp;&nbsp; Desde de criança, gostava e procurava <strong>entender como os eletrônicos funcionavam</strong> e <strong>me apaixonei pelo mundo da tecnologia</strong>!</p>
